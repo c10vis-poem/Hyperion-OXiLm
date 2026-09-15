@@ -9,7 +9,7 @@ Salvage rationale and post-mortem: `raw-databank/README-SALVAGE.md`.
 ## What this is
 
 Part of the 3-APK architecture alongside Æsc (terminal) and Æyre (voice/vision).
-See `novae-xorpus/NAMING-CANON.md`.
+See `NovAExorpus/NAMING-CANON.md`.
 
 ## Operator Rule 1 — no action without an explicit prompt
 
