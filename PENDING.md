@@ -6,6 +6,6 @@ Durable cross-session backlog. Not rewritten each session — items persist unti
   `raw-databank` (full-history bundle + current-at-wipe-time file snapshot).
   Salvage post-mortem (what NOT to repeat — the half-finished GenieX
   migration, silently-swallowed exceptions) is in `raw-databank/README-SALVAGE.md`.
-- **`novaexopia/horizons-ui/` subfolder still exists**, built from the
+- **`NovAExopia/horizons-ui/` subfolder still exists**, built from the
   now-superseded Document 05 nested-repo model. Needs reconciling against
   this fresh standalone repo once real work starts here.
